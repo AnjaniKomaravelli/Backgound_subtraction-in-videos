@@ -1,4 +1,4 @@
-Definition: Background subtraction is a key technique in computer vision used to distinguish
+Background subtraction is a key technique in computer vision used to distinguish
 moving objects (foreground) from a static background in video sequences. It is widely utilized
 in applications like surveillance, motion tracking, and video analysis, where the goal is to
 detect and isolate dynamic elements within a mostly constant environment.
